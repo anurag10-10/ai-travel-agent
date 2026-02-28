@@ -7,5 +7,4 @@ streamlit                     ==1.52.2
 python-dotenv                 ==1.2.1
 setuptools                    ==80.9.0
 pillow                        ==12.1.0
-langchain-tavily
-ipykernel                     
+langchain-tavily         
